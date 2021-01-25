@@ -1,3 +1,8 @@
+
+## Introdução ao D3
+
+1 - Introdução ao D3 com Observable: [notebook](https://observablehq.com/@carlosjun/introducao-ao-d3-com-observable)<br>
+
 ## Aula do dia 16/01/2021
 
 [index01.html](basic/index01.html)<br>
