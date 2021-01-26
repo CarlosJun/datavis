@@ -2,6 +2,7 @@
 ## Introdução ao D3
 
 1 - Introdução ao D3 com Observable: [notebook](https://observablehq.com/@carlosjun/introducao-ao-d3-com-observable)<br>
+2 - Introdução ao D3 (Parte 2) - Escalas e Eixos: [notebook](https://observablehq.com/@carlosjun/introducao-ao-d3-parte-2-escalas-e-eixos)<br>
 
 ## Aula do dia 16/01/2021
 
