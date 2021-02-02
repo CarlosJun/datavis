@@ -1,3 +1,6 @@
+## D3 + Crossfilter + dc.js
+
+1 - D3 com Crossfilter e dc.js - Parte 1: [notebook](https://observablehq.com/@carlosjun/d3-com-crossfilter-e-dc-js)<br>
 
 ## Introdução ao D3
 
