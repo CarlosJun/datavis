@@ -1,3 +1,13 @@
+## Cores e Mapas de Cores
+
+1 - Taxa de desemprego nos EUA em agosto de 2016 [notebook](https://observablehq.com/@carlosjun/taxa-de-desemprego-nos-eua-em-agosto-de-2016)<br>
+2 - Homicídios em Fortaleza em 2012 [notebook](https://observablehq.com/@carlosjun/homicidios-em-fortaleza-em-2012)<br>
+
+## Visualização de Redes e Árvores
+
+1 - Redes em grafos de músicas similares [notebook](https://observablehq.com/@carlosjun/similar-song-network)<br>
+2 - Redes em grafos de conexões: Les Misarables [notebook](https://observablehq.com/@carlosjun/connections-les-misarables)<br>
+
 ## D3 + Crossfilter + dc.js
 
 1 - D3 com Crossfilter e dc.js - Parte 1: [notebook](https://observablehq.com/@carlosjun/d3-com-crossfilter-e-dc-js)<br>
