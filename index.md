@@ -1,3 +1,8 @@
+## Lidando com Complexidade em Visualizações
+
+1 - Taxa de desemprego nos EUA em agosto de 2016 (Parte 2) [notebook](https://observablehq.com/@carlosjun/taxa-de-desemprego-nos-eua-em-agosto-de-2016-parte-2)<br>
+2 - D3 com Crossfilter, DC.js e Leaflet (Parte 2) [notebook](https://observablehq.com/@carlosjun/d3-com-crossfilter-dc-js-e-leaflet-parte-2)<br>
+
 ## Cores e Mapas de Cores
 
 1 - Taxa de desemprego nos EUA em agosto de 2016 [notebook](https://observablehq.com/@carlosjun/taxa-de-desemprego-nos-eua-em-agosto-de-2016)<br>
